@@ -1,5 +1,5 @@
 a = ['1','2','3']
-b = input('Enter the employee id')
+b = input('Enter the employee id:')
 if (b in a):
  print("Employee id is available")
 else:
